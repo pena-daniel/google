@@ -14,6 +14,18 @@
     width: 100%;
     height: 100px;
 }
+.header p{
+    padding-left: 85%;
+    padding-top: 20px;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+}
+.items{
+    text-decoration: none;
+}
+.items:hover{
+    text-decoration: underline;
+}
 /* section */
 .section{
     width: 100%;
